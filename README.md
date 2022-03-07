@@ -1,2 +1,2 @@
 # Test
-Repo Training
+Repo Training ( git command )
